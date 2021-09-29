@@ -28,10 +28,9 @@ Customize your name, links and everything else for your landing page
 git push
 Voila! Your site should be live at https://{username}.github.io
 
-Here's my Dev Landing Page - Dinesh Pandiyan - portfolio v1
 
 Custom Domain
 If you want to make your new landing page available under a domain like {username}.com you can get started here - Setting up a custom domain.
 
 License
-MIT © Dinesh Pandiyan
+MIT ©

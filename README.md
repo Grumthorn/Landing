@@ -1,3 +1,5 @@
+Forked from Dinesh Pandiyan! Thanks! 
+
 # Dev Landing Page
 
 Minimal landing page for developers.
